@@ -2,7 +2,7 @@
 //  VolymapApp.swift
 //  Volymap
 //
-//  Created by yupana on 3/28/22.
+//  Created by kuday on 3/28/22.
 //
 
 import SwiftUI
@@ -11,7 +11,7 @@ import SwiftUI
 struct VolymapApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            AppTabView()
         }
     }
 }
