@@ -16,6 +16,7 @@
 		3F72E1D627F3ACB700AC7320 /* CloudKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 3F72E1D527F3ACB700AC7320 /* CloudKit.framework */; };
 		3F72E1D827F3AFA400AC7320 /* Color+Ext.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F72E1D727F3AFA400AC7320 /* Color+Ext.swift */; };
 		3F72E1DA27F3B01600AC7320 /* AppTabView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F72E1D927F3B01600AC7320 /* AppTabView.swift */; };
+		3F8BD5D127FB6EAF002B4776 /* LocationDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F8BD5D027FB6EAF002B4776 /* LocationDetailView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		3F72E1D527F3ACB700AC7320 /* CloudKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CloudKit.framework; path = System/Library/Frameworks/CloudKit.framework; sourceTree = SDKROOT; };
 		3F72E1D727F3AFA400AC7320 /* Color+Ext.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "Color+Ext.swift"; sourceTree = "<group>"; };
 		3F72E1D927F3B01600AC7320 /* AppTabView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppTabView.swift; sourceTree = "<group>"; };
+		3F8BD5D027FB6EAF002B4776 /* LocationDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocationDetailView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 				3F4F904627F3B282009FC120 /* LocationMapView.swift */,
 				3F4F904827F3B2AD009FC120 /* LocationListView.swift */,
 				3F4F904A27F3B2BC009FC120 /* ProfileView.swift */,
+				3F8BD5D027FB6EAF002B4776 /* LocationDetailView.swift */,
 			);
 			path = Volymap;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 				3F72E1C627F2E58A00AC7320 /* VolymapApp.swift in Sources */,
 				3F4F904727F3B282009FC120 /* LocationMapView.swift in Sources */,
 				3F4F904927F3B2AD009FC120 /* LocationListView.swift in Sources */,
+				3F8BD5D127FB6EAF002B4776 /* LocationDetailView.swift in Sources */,
 				3F72E1DA27F3B01600AC7320 /* AppTabView.swift in Sources */,
 				3F4F904B27F3B2BC009FC120 /* ProfileView.swift in Sources */,
 				3F72E1D827F3AFA400AC7320 /* Color+Ext.swift in Sources */,
