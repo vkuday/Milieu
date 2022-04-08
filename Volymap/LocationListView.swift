@@ -5,7 +5,7 @@
 //  Copyright © 2022 Kuday. All rights reserved.
 //
 
-import SwiftUI
+import SwiftUI  
 
 struct LocationListView: View {
     var body: some View {
